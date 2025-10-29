@@ -1,0 +1,5 @@
+# Bukkit/Spigot style config for auto-save
+# This helps reduce lag spikes from world saves
+ticks-per:
+  autosave: 12000
+# Saves every 10 minutes instead of every 5 minutes

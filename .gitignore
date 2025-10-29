@@ -1,0 +1,31 @@
+# Minecraft Server Files
+server.jar
+*.jar
+world/
+logs/
+libraries/
+versions/
+crash-reports/
+*.log
+*.log.*
+
+# Player data
+usercache.json
+banned-ips.json
+banned-players.json
+ops.json
+whitelist.json
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+
+# Playit tunnel
+playit
+playit.log
+.playit/
+
+# System files
+.DS_Store
+Thumbs.db
